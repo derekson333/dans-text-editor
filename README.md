@@ -29,7 +29,7 @@ SO THAT I can reliably retrieve them for later use
 https://github.com/derekson333/dans-text-editor
 
 * Heroku Deployed Page: 
-https://derekson333.github.io/yyyyyyyyy
+https://dans-text-editor.herokuapp.com/
 
 ---
 
